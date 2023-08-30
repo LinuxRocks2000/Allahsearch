@@ -1,0 +1,3 @@
+[submodule "Okaz"]
+	path = Okaz
+	url = git@github.com:youcef-mo/Okaz.git
